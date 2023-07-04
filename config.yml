@@ -66,12 +66,12 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: vk
+      url: "https://vk.com/elez_wq"
+    - name: telegram
+      url: "https://t.me/elez_wq"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/elez-wq"
 
   cover:
     hidden: true # hide everywhere but not in structured data

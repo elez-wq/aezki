@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>aezki-project</title>
+    <link>https://elez-wq.github.io/aezki/</link>
+    <description>Recent content on aezki-project</description>
+    <image>
+      <title>aezki-project</title>
+      <url>https://elez-wq.github.io/aezki/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://elez-wq.github.io/aezki/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Jul 2023 18:28:33 +0300</lastBuildDate><atom:link href="https://elez-wq.github.io/aezki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Info</title>
+      <link>https://elez-wq.github.io/aezki/posts/info/</link>
+      <pubDate>Tue, 04 Jul 2023 18:28:33 +0300</pubDate>
+      
+      <guid>https://elez-wq.github.io/aezki/posts/info/</guid>
+      <description>О проекте Меня зовут Артем, я создатель проекта aezki. Это моя небольшая инициатива, нацеленная на помощь пользователям операционной системы Arclinux. Мой главный интерес - сделать использование Arclinux легким и приятным для всех. Поэтому проект aezki предоставляет мануалы, которые помогут новичкам и опытным пользователям разобраться с установкой, настройкой и использованием Arclinux. Кроме того, в рамках проекта aezki также предоставляются полезные скрипты и конфигурационные файлы, которые помогут автоматизировать задачи и настроить систему под свои потребности.</description>
+    </item>
+    
+  </channel>
+</rss>
